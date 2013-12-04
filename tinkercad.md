@@ -26,6 +26,17 @@ surrounding it:
 ![translation draggers](https://dl.dropboxusercontent.com/s/h5m3bv0yefrrev8/Screen%20Shot%202013-11-27%20at%201.37.35%20PM%202x%20%282%29.png)
 
 Any clicking on the scene is for selection or movement of the existing objects.
+
+Tinkercad also has many "holes" or shapes that you can subtract from others.
+This lets you do things like add a small hole for a bolt or magnet.
+
+![hole](https://dl.dropboxusercontent.com/s/z9sei91klagjbe4/Screen%20Shot%202013-12-03%20at%204.51.25%20PM%202x.png)
+
+This hole becomes more visible if you select both it and the object and group
+them:
+
+![grouped](https://dl.dropboxusercontent.com/s/sxih702r9dldbae/Screen%20Shot%202013-12-04%20at%208.33.02%20AM%202x.png)
+
 To actually change how you're viewing it, you'll need the controls in the top
 left:
 
