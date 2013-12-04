@@ -35,7 +35,7 @@ This lets you do things like add a small hole for a bolt or magnet.
 This hole becomes more visible if you select both it and the object and group
 them:
 
-![grouped](Waiting for Tinkercad to come online)
+![grouped](https://dl.dropboxusercontent.com/s/sxih702r9dldbae/Screen%20Shot%202013-12-04%20at%208.33.02%20AM%202x.png)
 
 To actually change how you're viewing it, you'll need the controls in the top
 left:
