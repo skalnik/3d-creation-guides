@@ -47,11 +47,11 @@ around), only rotate while staring at the center of the model. The circle pad
 rotates you around, while the + and - zoom in and out. The home button puts you
 back where you started, and the cube zooms in on the object you have selected
 
-Once you've created something you want to print, you'll want to save an STL. To do so, select "Download for 3D Printing" from the "Design" menu:
+Once you've created something you want to print, you'll want to save an STL. To do so, select `Download for 3D Printing` from the `Design` menu:
 
 ![download for printing](https://dl.dropboxusercontent.com/s/pwyucm71igdt3lg/Screen%20Shot%202013-12-05%20at%2010.29.04%20AM%202x%20%281%29.png)
 
-And then select STL
+And then select `STL`
 
 ![select STL](https://dl.dropboxusercontent.com/s/df8hdg7mkp9bjo5/Screen%20Shot%202013-12-05%20at%2010.29.12%20AM%202x.png)
 
