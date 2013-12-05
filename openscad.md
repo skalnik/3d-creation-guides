@@ -38,7 +38,7 @@ for ( i = [ 0 : len(word) - 1] )
 }
 ```
 
-Assuming you have a directory called "glyphs" with STL files for each of these letters (like these: https://github.com/make-me/glyphs), this will take letter, import the STL, and translate each one 12mm further to the right to spell whatever you'd like.
+Assuming you have a directory called `glyphs` with STL files for each of these letters (like these: https://github.com/make-me/glyphs), this will take letter, import the STL, and translate each one 12mm further to the right to spell whatever you'd like.
 
 STL importing is very useful and I've used it multiple times. Often I generate something more complex in another program (a logo, glyphs, etc), and then use OpenSCAD to add/subtract them from existing models.
 
